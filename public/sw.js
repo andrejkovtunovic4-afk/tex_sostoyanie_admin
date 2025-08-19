@@ -1,0 +1,1 @@
+// sw.js offline cache placeholder - version 2025-08-19
